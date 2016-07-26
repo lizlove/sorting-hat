@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Elizabeth Lovero> -- <developer> -- <@lizzard>
+
+# THANKS
+
+    <Lenny>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, NODEJS
+    Apache Server Configs, jQuery, Modernizr, Normalize.css

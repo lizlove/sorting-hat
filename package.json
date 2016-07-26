@@ -1,0 +1,24 @@
+{
+  "name": "sorting-hat",
+  "version": "1.0.0",
+  "description": "An api for Hogwarts Houses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizlove/sorting-hat.git"
+  },
+  "author": "Elizabeth Lovero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizlove/sorting-hat/issues"
+  },
+  "homepage": "https://github.com/lizlove/sorting-hat#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "errorhandler": "^1.4.3",
+    "express": "^4.13.4"
+  }
+}

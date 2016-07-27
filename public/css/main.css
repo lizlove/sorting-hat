@@ -170,28 +170,28 @@ textarea {
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
   .landing-hat {
-    max-width: 400px;
+    max-width: 300px;
   }
 }
 
 /* Larger than tablet */
 @media (min-width: 750px) {
   .landing-hat {
-    max-width: 450px;
+    max-width: 350px;
   }
 }
 
 /* Larger than desktop */
 @media (min-width: 1000px) {
   .landing-hat {
-    max-width: 500px;
+    max-width: 400px;
   }
 }
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
   .landing-hat {
-    max-width: 550px;
+    max-width: 450px;
   }
 }
 

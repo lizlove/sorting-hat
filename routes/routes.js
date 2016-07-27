@@ -1,7 +1,5 @@
-var appRouter = function(app) {
+module.exports = function(app, express) {
   app.get("/", function(req, res) {
-      res.send("Hello World");
+      res.render('index');
   });
-}
- 
-module.exports = appRouter;
+};

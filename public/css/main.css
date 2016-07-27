@@ -97,7 +97,7 @@ textarea {
   margin-bottom: 1.5rem;
  }
 
- .betty {
+ .landing-hat {
    height: auto;
    width: auto;
    margin: auto;
@@ -169,28 +169,28 @@ textarea {
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-  .betty {
+  .landing-hat {
     max-width: 400px;
   }
 }
 
 /* Larger than tablet */
 @media (min-width: 750px) {
-  .betty {
+  .landing-hat {
     max-width: 450px;
   }
 }
 
 /* Larger than desktop */
 @media (min-width: 1000px) {
-  .betty {
+  .landing-hat {
     max-width: 500px;
   }
 }
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
-  .betty {
+  .landing-hat {
     max-width: 550px;
   }
 }
